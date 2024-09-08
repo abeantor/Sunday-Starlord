@@ -21,3 +21,5 @@ public class Singleton {
 		System.out.println("Demo method for singletone class");
 	}
 }
+
+// This line is to validate the git request
